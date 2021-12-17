@@ -100,9 +100,10 @@ nav{
 #mainLogo{
     position: absolute;
     top: 10%;
-    left: 40%;
+    left: 41.5%;
     right: 40%;
-    width: 15vw;
+    width: 17vw;
+    z-index: 2;
     clip-path: circle();
     &:hover{
         transform: scale(1.2,1.2);
